@@ -43,7 +43,7 @@ def parser(filename, type, chapter=None):
 			txt += f'#EXTINF:-1 group-title="{chapter}",{i[0]}\n{i[1]}\n\n'
 		return txt
 
-res = parser('cac_loai_nguon_xung.har', 3, 'Video Giáo trình Sửa các loại Nguồn xung')
+res = parser('tu_lanh_pana.har', 3, 'Video Sửa chữa Bo tủ lạnh Panasonic Mono')
 print(res)
 
 with open("full-links.m3u.txt", "w", encoding="utf-8") as f:
