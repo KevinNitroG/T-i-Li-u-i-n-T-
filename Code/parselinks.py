@@ -43,7 +43,12 @@ def parser(filename, type, chapter=None):
 			txt += f'#EXTINF:-1 group-title="{chapter}",{i[0]}\n{i[1]}\n\n'
 		return txt
 
-print(parser('omg.har', 3, 'Video Sửa Chữa Bo Mạch Điều Hòa Inverter Chung'))
+res = parser('omg.har', 3, 'Video Sửa Chữa Bo Mạch Điều Hòa Inverter Chung')
+print(res)
+
+with open("full-links.m3u.txt", "w", encoding="utf-8") as f:
+	f.writelines(res)
+	f.close()
 
 '''
 Sử dụng hàm "parser":
