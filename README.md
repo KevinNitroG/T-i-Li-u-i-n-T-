@@ -13,7 +13,9 @@ https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/Tai_lieu_dien_tu.m3u
 
 - Ở tab ..., Chọn `Playlist` để chọn video muốn xem
 
-Hoặc add vào phần mềm xem IPTV
+## Xem dạng IPTV:
+
+- Update later
 
 # CREDIT:
 
