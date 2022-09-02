@@ -1,6 +1,6 @@
 # THÔNG TIN:
 
-> **Note**: Chưa xong. Cứ từ từ từ bình tĩnh
+- Xem không cần tài khoản, vì mình sẽ truy cập thẳng vào link video luôn
 
 # CÁCH DÙNG:
 
