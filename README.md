@@ -53,7 +53,7 @@
 
 </Details>
 
-- Search `Play IPTV Online`, paste link vừa copy vào và xem
+- Search `Play IPTV Online`, chọn website, paste link vừa copy vào và xem
 
   > Đề xuất: [Free IPTV Player](https://freeiptvplayer.com/) hoặc [Online IPTV Player](https://onlineiptvplayer.com/)
 
