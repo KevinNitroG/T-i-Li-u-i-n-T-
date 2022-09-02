@@ -73,6 +73,8 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 **Xem Video hướng dẫn cụ thể:**
 
+https://user-images.githubusercontent.com/86353526/188212356-852b1114-5aaa-4dce-85e2-a384288efab4.mp4
+
 ---
 
 ## 3. Xem qua app xem IPTV:
@@ -84,7 +86,7 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 **Xem Video hướng dẫn cụ thể:**
 
-https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20IPTV.mp4
+
 
 ---
 
