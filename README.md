@@ -57,8 +57,6 @@
 
   > Đề xuất: [Free IPTV Player](https://freeiptvplayer.com/) hoặc [Online IPTV Player](https://onlineiptvplayer.com/)
 
-**Xem Video hướng dẫn cụ thể:**
-
 https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-a18d-5f0dc70c3fb4.mp4
 
 ---
@@ -71,8 +69,6 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 - Ở tab `View`, Chọn `Playlist` để chọn video muốn xem
 
-**Xem Video hướng dẫn cụ thể:**
-
 https://user-images.githubusercontent.com/86353526/188212356-852b1114-5aaa-4dce-85e2-a384288efab4.mp4
 
 ---
@@ -83,8 +79,6 @@ https://user-images.githubusercontent.com/86353526/188212356-852b1114-5aaa-4dce-
   > [IPTV Pro mod](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/IPTV_Pro_v6.1.11_b1103_armeabi-v7a_K.apk) cho Android
 
 - Thêm [playlist](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20-%20C%C3%A1c%20b%C3%A0i%20c%E1%BB%A7a%20c%C3%A1c%20kho%C3%A1.m3u)
-
-**Xem Video hướng dẫn cụ thể:**
 
 https://user-images.githubusercontent.com/86353526/188213909-2b4c4864-c6b4-4ab0-b1b2-6fced42de6d7.mp4
 
