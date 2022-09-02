@@ -8,11 +8,11 @@
 
 ## 1. Xem qua website hỗ trợ:
 
-- `Copy link` playlist muốn xem 
+- `Copy link` playlist muốn xem từ phía dưới 👇
 
 <Details>
 <summary>
-🤙 Ấn vào đây để tất cả các playlist 👈
+Ấn vào đây để tất cả các playlist 👈
 </summary>
 
 - [Video Sửa Chữa Bo Điều Hòa Casper Inverter Gas 32 - 12000BTU - SX2020](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/m3u/Video%20S%E1%BB%ADa%20Ch%E1%BB%AFa%20Bo%20%C4%90i%E1%BB%81u%20H%C3%B2a%20Casper%20Inverter%20Gas%2032%20-%2012000BTU%20-%20SX2020.m3u)
