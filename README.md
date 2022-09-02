@@ -6,7 +6,7 @@
 
 # CÁC CÁCH ĐỂ XEM:
 
-## 1. Xem qua website hỗ trợ:
+## 1. Xem qua website hỗ trợ (chỉ dành cho máy tính)
 
 - `Copy link` playlist muốn xem từ phía dưới 👇
 
@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 ---
 
-## 2. Xem qua VLC __(máy tính)__
+## 2. Xem qua VLC:
 
 - `Copy` [Link này](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20-C%C3%A1c%20kho%C3%A1.m3u)
 
@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/86353526/188212356-852b1114-5aaa-4dce-
 
 ---
 
-## 3. Xem qua app xem IPTV:
+## 3. Xem qua app xem IPTV (điện thoại nên dùng):
 
 - Tải app để xem IPTV
   > [IPTV Pro mod](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/IPTV_Pro_v6.1.11_b1103_armeabi-v7a_K.apk) cho Android
