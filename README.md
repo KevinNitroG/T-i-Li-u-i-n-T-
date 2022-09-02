@@ -58,7 +58,8 @@
   > Đề xuất: [Free IPTV Player](https://freeiptvplayer.com/) hoặc [Online IPTV Player](https://onlineiptvplayer.com/)
 
 **Xem Video hướng dẫn cụ thể:**
-![Video](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20Browser.mp4)
+
+https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20Browser.mp4
 
 ---
 
@@ -71,7 +72,8 @@
 - Ở tab `View`, Chọn `Playlist` để chọn video muốn xem
 
 **Xem Video hướng dẫn cụ thể:**
-![Video](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20VLC.mp4)
+
+https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20VLC.mp4
 
 ---
 
@@ -83,7 +85,8 @@
 - Thêm [playlist](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20-%20C%C3%A1c%20b%C3%A0i%20c%E1%BB%A7a%20c%C3%A1c%20kho%C3%A1.m3u)
 
 **Xem Video hướng dẫn cụ thể:**
-![Video](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20IPTV.mp4)
+
+https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20IPTV.mp4
 
 ---
 
