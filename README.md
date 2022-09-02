@@ -59,7 +59,7 @@
 
 **Xem Video hướng dẫn cụ thể:**
 
-https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20Browser.mp4
+https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-a18d-5f0dc70c3fb4.mp4
 
 ---
 
@@ -73,7 +73,7 @@ https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%
 
 **Xem Video hướng dẫn cụ thể:**
 
-https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guidance/Xem%20B%E1%BA%B1ng%20VLC.mp4
+https://user-images.githubusercontent.com/86353526/188212356-852b1114-5aaa-4dce-85e2-a384288efab4.mp4
 
 ---
 
