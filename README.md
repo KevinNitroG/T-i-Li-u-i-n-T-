@@ -4,10 +4,7 @@
 
 # CÁCH DÙNG:
 
-<Detail>
-<summary>
 ## Xem qua website hỗ trợ:
-</summary>
 
 - Vào [Link này](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/tree/main/m3u) và chọn list muốn xem
 
@@ -16,8 +13,6 @@
 
 - Search `Play IPTV Online`, paste link vừa copy vào và xem
   > Đề xuất: [Free IPTV Player](https://freeiptvplayer.com/)
-
-</Detail>
 
 ## Xem qua VLC (máy tính)
 
