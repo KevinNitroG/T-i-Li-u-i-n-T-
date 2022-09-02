@@ -9,7 +9,7 @@
 - Vào [Link này](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/tree/main/m3u) và chọn list muốn xem
 
 - Ấn chuột phải vào `Raw`, chọn `copy địa chỉ`
-![Ảnh minh hoạ](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/guiding%20picture/copy%20raw%20link.png)
+![Ảnh minh hoạ](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/img/copy%20raw%20link.png)
 
 - Search `Play IPTV Online`, paste link vừa copy vào và xem
   > Đề xuất: [Free IPTV Player](https://freeiptvplayer.com/)
