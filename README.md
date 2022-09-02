@@ -86,11 +86,7 @@ https://user-images.githubusercontent.com/86353526/188212356-852b1114-5aaa-4dce-
 
 **Xem Video hướng dẫn cụ thể:**
 
-
-
 https://user-images.githubusercontent.com/86353526/188213909-2b4c4864-c6b4-4ab0-b1b2-6fced42de6d7.mp4
-
-
 
 ---
 
