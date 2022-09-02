@@ -24,15 +24,31 @@ def parser(filename, type, chapter=None):
 			pass
 
 	links = [f"{i.replace('__sd', '')[:i.find('?nimblesessionid')-4]}" for i in links]
-	#links.sort(key=lambda n: int(n[n.find('-bai-')+5 : n.find('-', n.find('-bai-')+5 )]))
+	# links.sort(key=lambda n: int(n[n.find('-bai-')+5 :n.find('-bai-')+8]))
+
+	full = []
+	for link in links:
+		raw_title = re.findall("-bai\.mp4", link)
+		# title = raw_title[0][raw_title[0].find('bai'):raw_title[0].find('.mp4')]
+
+		full.append([raw_title, link])
 
 	if (type==1):
 		return links
 	elif (type==2):
 		return '\n\n'.join(links)
+	elif (type==3):
+		txt = '#EXTM3U\n'
+		for i in full:
+			txt += f'#EXTINF:-1 group-title="{chapter}",{i[0]}\n{i[1]}\n\n'
+		return txt
 
-res = parser('tu_lanh_pana.har', 2, '')
+res = parser('fujitsu.har', 3, 'Sửa bo Điều Hòa Fujitsu nội địa 100V - 9000BTU gas 410 sx 2013')
 print(res)
+
+with open("full-links.m3u.txt", "w", encoding="utf-8") as f:
+	f.writelines(res)
+	f.close()
 
 '''
 Sử dụng hàm "parser":

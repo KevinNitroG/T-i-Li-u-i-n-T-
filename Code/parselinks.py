@@ -24,7 +24,7 @@ def parser(filename, type, chapter=None):
 			pass
 
 	links = [f"{i.replace('__sd', '')[:i.find('?nimblesessionid')-4]}" for i in links]
-	links.sort(key=lambda n: int(n[n.find('-bai-')+5 : n.find('-', n.find('-bai-')+5 )]))
+	links.sort(key=lambda n: (n[n.find('-bai-')+5 : n.find('-', n.find('-bai-')+5 )]))
 
 	full = []
 	for link in links:
@@ -43,7 +43,7 @@ def parser(filename, type, chapter=None):
 			txt += f'#EXTINF:-1 group-title="{chapter}",{i[0]}\n{i[1]}\n\n'
 		return txt
 
-res = parser('tu_lanh_pana.har', 3, 'Video Sửa chữa Bo tủ lạnh Panasonic Mono')
+res = parser('mitsubishi.har', 3, 'Video Sửa chữa Bo tủ lạnh Panasonic Mono')
 print(res)
 
 with open("full-links.m3u.txt", "w", encoding="utf-8") as f:

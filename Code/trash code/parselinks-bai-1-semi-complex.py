@@ -24,14 +24,14 @@ def parser(filename, type, chapter=None):
 			pass
 
 	links = [f"{i.replace('__sd', '')[:i.find('?nimblesessionid')-4]}" for i in links]
-	links.sort(key=lambda n: int(n[n.find('-b')+2 : n.find('-b')+4]))
+	links.sort(key=lambda n: (n[n.find('-bai-')+5 : n.find('-', n.find('-bai-')+5 )]))
 
 	full = []
 	for link in links:
-		raw_title = re.findall("-b\d+-[0-9a-zA-z\-]+\.mp4", link)
-		title = raw_title[0][raw_title[0].find('-b'):raw_title[0].find('.mp4')]
+		raw_title = re.findall("-bai-\d+-[0-9a-zA-Z\]-+\.mp4", link)
+		# title = raw_title[0][raw_title[0].find('bai-'):raw_title[0].find('.mp4')]
 
-		full.append([title, link])
+		full.append([raw_title, link])
 
 	if (type==1):
 		return links
@@ -43,7 +43,7 @@ def parser(filename, type, chapter=None):
 			txt += f'#EXTINF:-1 group-title="{chapter}",{i[0]}\n{i[1]}\n\n'
 		return txt
 
-res = parser('atx.har', 2, 'Video Sửa chữa Bo tủ lạnh Panasonic Mono')
+res = parser('side_by_side_samsung.har', 3, 'Video Sửa Chữa Bo Tủ Lạnh Side By Side Sam Sung 500l')
 print(res)
 
 with open("full-links.m3u.txt", "w", encoding="utf-8") as f:
