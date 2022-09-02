@@ -58,7 +58,7 @@
 
 ---
 
-## 2. Xem qua VLC (máy tính)
+## 2. Xem qua VLC __(máy tính)__
 
 - `Copy` [Link này](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20-C%C3%A1c%20kho%C3%A1.m3u)
 
@@ -79,5 +79,5 @@
 
 # CREDIT:
 
-- [Nautilus](github.com/longtoZ/): for coding, debug
-- Me for nothing .-.
+- [Nautilus](github.com/longtoZ/): coding, debug
+- Me: Tổng hợp file
