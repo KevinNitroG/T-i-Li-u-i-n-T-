@@ -1,10 +1,16 @@
 # THÔNG TIN:
 
-> **Note**: Chưa xong. Cứ từ từ từ bình tĩnh
+> **Note**: Chưa xong
 
 # CÁCH DÙNG:
 
-- Copy và Paste vào VLC
+## Máy tính:
+
+### Xem bằng App:
+
+#### VLC
+
+- Copy Link này và Paste vào VLC
 
 ```
 https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20di%E1%BB%87n%20t%E1%BB%AD.m3u
