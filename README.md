@@ -16,7 +16,7 @@
 
 ## Xem qua VLC (máy tính)
 
-- `Copy` [Link này](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20di%E1%BB%87n%20t%E1%BB%AD.m3u)và `Paste` vào VLC, ấn `Play`
+- `Copy` [Link này](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20di%E1%BB%87n%20t%E1%BB%AD.m3u) và `Paste` vào VLC, ấn `Play`
 
 - Ở tab `View`, Chọn `Playlist` để chọn video muốn xem
 
