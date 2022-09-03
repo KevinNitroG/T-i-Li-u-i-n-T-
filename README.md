@@ -112,6 +112,8 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 - Ở tab `View`, Chọn `Playlist` để chọn video muốn xem
 
+https://user-images.githubusercontent.com/86353526/188255258-4c49933e-7b2a-4f5f-babe-cd56c73533d5.mp4
+
 ---
 
 ## 3. Xem qua app xem IPTV (điện thoại nên dùng):
