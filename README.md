@@ -55,7 +55,7 @@
 
 - Search `Play IPTV Online`, chọn website, paste link vừa copy vào và xem
 
-  > Đề xuất: [Free IPTV Player](https://freeiptvplayer.com/) hoặc [Online IPTV Player](https://onlineiptvplayer.com/)
+  > Đề xuất: [Online IPTV Player](https://onlineiptvplayer.com/) hoặc [Free IPTV Player](https://freeiptvplayer.com/)
 
 https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-a18d-5f0dc70c3fb4.mp4
 
