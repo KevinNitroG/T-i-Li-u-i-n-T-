@@ -108,7 +108,7 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 </Details>
 
-- `Paste` vào VLC, ấn `Play`
+- `Paste` vào VLC *(Ctrl + V)*, ấn `Play`
 
 - Ở tab `View`, Chọn `Playlist` để chọn video muốn xem
 
