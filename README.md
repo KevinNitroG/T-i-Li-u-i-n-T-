@@ -1,5 +1,7 @@
 # THÔNG TIN:
 
+> **Note**: Video minh hoạ hơi khác so với hướng dẫn trong đây, vì lười update video minh hoạ ://
+
 - Xem không cần tài khoản, vì mình sẽ truy cập thẳng vào link video luôn
 
 <Details>
