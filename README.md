@@ -54,7 +54,7 @@
 
 ## 1. Xem qua website hỗ trợ (chỉ dành cho máy tính)
 
-- `Copy link` playlist muốn xem ở [phía trên](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/blob/main/README.md#%E1%BA%A5n-v%C3%A0o-%C4%91%C3%A2y-%C4%91%E1%BB%83-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-playlist-) 👆
+- `Copy link` playlist muốn xem ở [phía trên](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/blob/main/README.md#-%E1%BA%A5n-v%C3%A0o-%C4%91%C3%A2y-%C4%91%E1%BB%83-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-playlist--) 👆
 
 - Search `Play IPTV Online`, chọn website, paste link vừa copy vào và xem
 
@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 ## 2. Xem qua VLC:
 
-- `Copy link` playlist muốn xem ở [phía trên](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/blob/main/README.md#%E1%BA%A5n-v%C3%A0o-%C4%91%C3%A2y-%C4%91%E1%BB%83-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-playlist-) 👆
+- `Copy link` playlist muốn xem ở [phía trên](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/blob/main/README.md#-%E1%BA%A5n-v%C3%A0o-%C4%91%C3%A2y-%C4%91%E1%BB%83-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-playlist--) 👆
 
 - `Paste` vào VLC *(Ctrl + V)*, ấn `Play`
 
