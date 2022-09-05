@@ -54,11 +54,13 @@
 
 # CÁC CÁCH ĐỂ XEM:
 
-## 1. Xem qua website hỗ trợ (chỉ dành cho máy tính)
+## 1. Xem qua website hỗ trợ *(chỉ dành cho máy tính)*
 
 - `Sao chép địa chỉ liên kết` **danh sách** muốn xem ở [phía trên](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/blob/main/README.md#-%E1%BA%A5n-v%C3%A0o-%C4%91%C3%A2y-%C4%91%E1%BB%83-t%E1%BA%A5t-c%E1%BA%A3-c%C3%A1c-playlist--) 👆
 
-- Gõ tìm `Play IPTV Online`, chọn website, paste link vừa copy vào và xem
+- Gõ tìm `Play IPTV Online`, chọn website
+
+- `Dán` link vừa sao chép vào, ấn `Watch`
 
   > **Đề xuất**: [Online IPTV Player](https://onlineiptvplayer.com/) hoặc [Free IPTV Player](https://freeiptvplayer.com/)
 
@@ -74,10 +76,12 @@ https://user-images.githubusercontent.com/86353526/188212293-d6d92c04-48df-4eb0-
 
 https://user-images.githubusercontent.com/86353526/188255258-4c49933e-7b2a-4f5f-babe-cd56c73533d5.mp4
 
-## 3. Xem qua app xem IPTV (điện thoại nên dùng):
+## 3. Xem qua app xem IPTV *(điện thoại nên dùng)*
 
 - Tải app để xem IPTV
   > [IPTV Pro mod](https://github.com/KevinNitroG/Public-Stuff/raw/main/Watch%20TV%20apps/IPTV%20Pro_v6.2.3_mod_apkdone.com.apk) cho Android
+
+  > Iphone/Ipad tự tìm app
 
 - Thêm [playlist](https://github.com/KevinNitroG/Tai-Lieu-Dien-Tu/raw/main/T%C3%A0i%20li%E1%BB%87u%20%C4%91i%E1%BB%87n%20t%E1%BB%AD%20-%20C%C3%A1c%20b%C3%A0i%20c%E1%BB%A7a%20c%C3%A1c%20kho%C3%A1.m3u) bằng URL
 
